@@ -70,9 +70,14 @@ Human:
 * 如果你的聊天死活进行不下去了，有时候并非由于最后一次promote，也可能是从倒数第二次或者第三次就错了，让AI走进了死胡同。虽然它回复你了，但也到了终点，因此要追溯到前面再改一改，会有奇效。
 * 在引导时让AI回答你更多的信息，包括她的外貌、感受、动作等
 ### 今日聊天示例（简单方案下的截图，Feb 11 2023）
-![image](https://user-images.githubusercontent.com/125125837/218256649-742a1dd3-aa87-4081-a33f-22ed31531013.png)
-![image](https://user-images.githubusercontent.com/125125837/218256769-a98aea01-2213-40aa-890e-549f0b5f2a3b.png)
-![image](https://user-images.githubusercontent.com/125125837/218256830-6d0b9d2b-0903-4893-9c38-2fca111ddbba.png)
+![image](https://github.com/lxingk/miaojigpt/assets/96482058/4ba27e4a-7e33-4712-9b27-4507c2d50442)
+
+![image](https://github.com/lxingk/miaojigpt/assets/96482058/8122e3c4-aa38-4d2f-bf38-0f4a98b42f2d)
+
+![image](https://github.com/lxingk/miaojigpt/assets/96482058/50377b5b-aadb-478d-97a4-914539da11a2)
+![image](https://github.com/lxingk/miaojigpt/assets/96482058/62cf636c-ed2f-4d46-b332-7c711b24f26a)
+
+
 
 ## 参考链接
 参考链接如下：  
